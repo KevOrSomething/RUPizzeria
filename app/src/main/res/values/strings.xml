@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RU Pizzeria</string>
+    <string name="title">Scarlet Knight Pizzeria</string>
+    <string name="pizza_type_label">Pizza Type:</string>
+    <string name="add_pizza_button_label">Add Pizza</string>
+    <string name="store_orders_button_label">Store Orders</string>
+    <string name="current_order_button_label">Current Order</string>
+    <string name="phone_number_label">Phone number</string>
+    <string name="price_label">Price: $</string>
+    <string name="current_phone_number_label">Phone number:</string>
+    <string name="add_to_order_label">Add to Order</string>
+    <string name="size_label">Size:</string>
+    <string name="store_orders_title">Store Orders</string>
+    <string name="delete_order_label">Delete Order</string>
+
+    <string name="selected_pizzas_removed_alert">Selected Pizzas Removed</string>
+    <string name="empty_orders_alert">Order is empty!</string>
+    <string name="order_already_exists_alert">Order already exists!</string>
+    <string name="order_placed_alert">Order placed</string>
+    <string name="pizza_added_alert">Pizza added</string>
+    <string name="too_many_toppings_alert">Too many toppings!</string>
+    <string name="default_toppings_alert">Removing default toppings will not reduce price.</string>
+    <string name="invalid_phone_alert">Invalid phone number!</string>
+    <string name="starting_new_order_alert">Starting new order</string>
+    <string name="mid_order_alert">Cannot change number mid-order!</string>
+    <string name="no_more_orders_alert">No more orders to delete!</string>
+    <string name="order_removed_alert">Order removed</string>
+
+    <string-array name="pizza_types">
+        <item>Deluxe</item>
+        <item>Hawaiian</item>
+        <item>Pepperoni</item>
+    </string-array>
+    <string-array name="sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string name="subtotal_label">Subtotal:</string>
+    <string name="sales_tax_label">Sales Tax:</string>
+    <string name="order_total_label">Order Total:</string>
+    <string name="place_order_label">Place Order</string>
+    <string name="remove_label">Remove</string>
+</resources>
