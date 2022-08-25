@@ -11,3 +11,9 @@ A menu should open up where you can select projects from GitHub. Log in to your 
 To see the project in action, you need to run an **AVD**, or **Android Virtual Device**. You can go to `Tools - Device Manager` and choose `Create Device`. The device used in testing was a **Pixel 3**, with the **R** API.
 
 From there, just start up the AVD, and it should open!
+
+## Screenshots
+
+![Home menu](example1.png "The home menu.")
+
+![Pizza ordering screen](example1.png "The ordering screen.")
