@@ -16,4 +16,4 @@ From there, just start up the AVD, and it should open!
 
 ![Home menu](example1.png "The home menu.")
 
-![Pizza ordering screen](example1.png "The ordering screen.")
+![Pizza ordering screen](example2.png "The ordering screen.")
